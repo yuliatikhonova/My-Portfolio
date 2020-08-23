@@ -1,12 +1,9 @@
-.footer {
-    position: absolute;
-    bottom: 0px;
+.page-footer {
     text-align: center;
-    width: 100%;
-    height: 65px;
     background-color: black;
+    min-height: 50px;
+    color: gray;
 }
-
 
 .line {
     height: 6px;
@@ -14,7 +11,3 @@
     background-image: linear-gradient(to right, black, gray);
 }
 
-.text-box {
-    margin-top: 15px;
-    color: gray;
-}

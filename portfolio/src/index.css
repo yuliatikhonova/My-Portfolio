@@ -17,3 +17,8 @@ code {
   align-items: stretch;
 }
 
+.main {
+  margin-left:3px;
+  background-color: lightgray;
+}
+
