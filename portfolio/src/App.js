@@ -6,11 +6,11 @@ import './App.css';
 
 function App() {
   return (
-    <div className=".container-fluid">
+    <div className="wrapper">
       <Sidebar />
-      <div className="container">
+      <div >
 
-        <Footer />
+        
       </div>
 
     </div>
