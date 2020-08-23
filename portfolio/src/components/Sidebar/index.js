@@ -8,7 +8,7 @@ function Sidebar() {
 
             <div id="sidebar-wrapper">
                 <ul class="sidebar-nav">
-                <br></br>
+                    <br></br>
                     <li>
                         <img src={Image} />
                     </li>
@@ -33,8 +33,6 @@ function Sidebar() {
                 </ul>
             </div>
         </div>
-
-
     );
 }
 

@@ -1,0 +1,23 @@
+.footer {
+    position: absolute;
+    bottom: 0px;
+    right: 50px;
+    margin: 0px -50px 0px 0px;
+    text-align: center;
+    width: 88%;
+    height: 60px;
+    background-color: black;
+    float: right;
+}
+
+
+.line {
+    height: 6px;
+    padding-top: 3px;
+    background-image: linear-gradient(to right, black, gray);
+}
+
+.text-box {
+    margin-top: 15px;
+    color: gray;
+}
