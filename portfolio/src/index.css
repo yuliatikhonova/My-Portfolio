@@ -12,13 +12,17 @@ code {
     monospace;
 }
 
-.wrapper {
+.cantainer-fluid {
   display: flex;
   align-items: stretch;
+  min-width: 100vw;
+  min-height: 100vh;
 }
 
 .main {
-  margin-left:3px;
-  background-color: lightgray;
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 50%, rgba(39,39,40,1) 100%);
+  margin-left: 200px;
+  padding: 0px 10px;
+  min-width: 100vw;
 }
 

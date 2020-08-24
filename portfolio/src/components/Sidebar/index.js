@@ -10,9 +10,10 @@ function Sidebar() {
                     <img src={Image} alt="Yulia" />
                     <br /><br />
                     <h2> Portfolio</h2>
-                    <h4>by Yulia Tikhonova</h4>
+                    <h6>by Yulia Tikhonova</h6>
                 </div>
-                <br /><br />
+                <hr/>
+                <br />
                 <div className="bar block">
                     <ul>
                         <li>
