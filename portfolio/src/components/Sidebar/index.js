@@ -17,13 +17,10 @@ function Sidebar() {
                 <div className="bar block">
                     <ul>
                         <li>
-                            <a href="#">Contact Me</a>
+                            <a href="https://github.com/yuliatikhonova" target="_blank">GitHub</a>
                         </li>
                         <li>
-                            <a href="#">GitHub</a>
-                        </li>
-                        <li>
-                            <a href="#">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/yulia-tikhonova-ab7b7552" target="_blank">LinkedIn</a>
                         </li>
                     </ul>
                 </div>

@@ -3,9 +3,9 @@ import "./style.css";
 
 function Footer() {
     return (
-        <footer class="page-footer">
-            <div class="line"></div>
-            <p class="text-box">&copy; Copyright by Yulia Tikhonova</p>
+        <footer className="page-footer">
+            <div className="line"></div>
+            <p className="text-box">&copy; Copyright by Yulia Tikhonova</p>
         </footer>
     );
 }

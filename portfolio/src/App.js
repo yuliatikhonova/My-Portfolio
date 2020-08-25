@@ -11,24 +11,24 @@ import Portfolio from "./pages/Portfolio";
 
 function App() {
   return (
-    <div className="cantainer-fluid">
+    <div className="container-fluid">
       <Sidebar />
       <div className="main">
         <Router>
           <Navbar />
           <br />
+          
           <Wrapper>
             <Route exact path="/" component={About} />
             <Route exact path="/about" component={About} />
             <Route exact path="/portfolio" component={Portfolio} />
           </Wrapper>
+          
         </Router>
-        <br />
-        <Contact />
         <br /><br />
-        <Footer />
+        <Contact />
       </div>
-
+      <Footer />
     </div>
   );
 }

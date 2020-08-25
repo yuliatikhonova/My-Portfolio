@@ -1,12 +1,8 @@
 .page-footer {
     text-align: center;
     background-color: black;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: 6px;
     color: gray;
+    min-width: 100vw;
 }
 
 .line {

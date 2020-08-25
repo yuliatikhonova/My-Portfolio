@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:black;
 }
 
 code {
@@ -15,14 +16,14 @@ code {
 .cantainer-fluid {
   display: flex;
   align-items: stretch;
-  min-width: 100vw;
   min-height: 100vh;
 }
 
 .main {
-  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(245,245,245,1) 50%, rgba(39,39,40,1) 100%);
-  margin-left: 200px;
   padding: 0px 10px;
+  margin-left: 200px;
   min-width: 100vw;
+  min-height: 100vh;
+  background: linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(245,245,245,1) 50%, rgba(0,0,0,1) 90%);
 }
 

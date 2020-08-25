@@ -1,11 +1,17 @@
 import React from "react";
+const styles = {
+    box: {
+      margin: 30,
+      background: "#e8eaf6"
+    }
+  };
 
 function About() {
     return (
-        <div class="container">
-            <div class="row">
-                <section class="col-md">
-                    <article class="block">
+        <div className="container" style={styles.box}>
+            <div className="row">
+                <section className="col-md">
+                    <article className="block">
                         <h1>About me</h1>
                         <hr />
                         <p>
