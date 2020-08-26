@@ -5,7 +5,7 @@
 
   I created a portfolio using React the will help set me apart from other developers whose portfolios do not use some of the latest technologies.
 
-    https://yuliatikhonova.github.io/portfolio
+    https://yuliatikhonova.github.io/My-Portfolio/
 
 ## Table of Contents
 
